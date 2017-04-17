@@ -1,2 +1,0 @@
-# thecasting
-A jekyll setup
