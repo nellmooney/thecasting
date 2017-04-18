@@ -19,7 +19,7 @@ perspective effects (not including the modals and the overlay).
 }
 
 .container {
-	background: #fbfbfb;
+	background: rgb(255, 255, 255);
 	min-height: 100%;
 }
 
